@@ -14,7 +14,7 @@ Apensar da Case ser real, *_não faz parte do processo seletivo_*, serve apenas 
 
 * Criar um jogo de Tarot, permitindo o sorteio de uma carta.
 
-<h2><a href="https://jogo-tarot-nataliaheloisa.vercel.app/"> :video_game: Jogue agora </a></h2>
+<h2><a href="https://jogo-tarot-phi.vercel.app/"> :video_game: Jogue agora </a></h2>
 
 <h3>  :heavy_check_mark: Funcionalidades </h3>
 
