@@ -14,6 +14,8 @@ Apensar da Case ser real, *_não faz parte do processo seletivo_*, serve apenas 
 
 * Criar um jogo de Tarot, permitindo o sorteio de uma carta.
 
+<h2><a href="">Link da aplicação</a></h2>
+
 <h3>  :heavy_check_mark: Funcionalidades </h3>
 
 * No início da aplicação é possível visualizar as cartas e suas descrições.
