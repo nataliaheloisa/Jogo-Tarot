@@ -8,7 +8,7 @@
 
 * Projeto desenvolvido afim de conclusão e certificação do curso: Desenvolvimeno Web Full Stack pela <a href="https://www.labenu.com.br/inicio">Labenu</a>.
 * <a href="https://github.com/Personare/front-end-challenge">Case</a> disponibilizada pela empresa <a href="https://www.personare.com.br/">Personare</a>.<bre/>
-Apensar da Case ser real, *_não faz parte do processo seletivo_*, serve apenas para aprendizado e desenvolvimento do estudante.
+Apesar da Case ser real, *_não faz parte do processo seletivo_*, serve apenas para aprendizado e desenvolvimento do estudante.
 
 <h3> :bulb: Objetivo do projeto </h3>
 
